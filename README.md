@@ -1,6 +1,6 @@
 ## Hi there, I'm Luan 👋
 <p>
-  - 👯 I’m almost graduating from UNISO - Sorocaba's University with a degree in Computer engineering
+  - 👯 I’m almost graduating from UNISO - Sorocaba's University with a degree in Computer engineering<br>
   - 🔎 Looking for professional experience
 </p>
 
