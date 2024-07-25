@@ -2,11 +2,8 @@
 
 - 👯 I’m almost graduating from UNISO - Sorocaba's University with a degree in Computer engineering
 - 🔎 Looking for professional experience
-- 
 
-## My LinkedIn:
 [<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/luan-castelhano-240a2b21a/)
-
 
 
 ### 🧰 Languages and Tools
