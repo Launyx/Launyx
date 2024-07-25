@@ -1,7 +1,8 @@
 ## Hi there, I'm Luan 👋
-
-- 👯 I’m almost graduating from UNISO - Sorocaba's University with a degree in Computer engineering
-- 🔎 Looking for professional experience
+<p>
+  - 👯 I’m almost graduating from UNISO - Sorocaba's University with a degree in Computer engineering
+  - 🔎 Looking for professional experience
+</p>
 
 [<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/luan-castelhano-240a2b21a/)
 
